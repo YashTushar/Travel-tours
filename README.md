@@ -1,4 +1,6 @@
 Travel Website
+![Uploading image.png…]()
+
 Objective
 The goal of this project is to build a travel website where users can browse, book, and manage trips. Additionally, trip organizers can register and add their trips. Both frontend and backend components are implemented using modern web technologies.
 
@@ -135,6 +137,8 @@ Environment Variables:
 Create a .env file in the backend directory for environment variables like database URL, JWT secret, etc.
 
 API Endpoints
+![image](https://github.com/user-attachments/assets/091f0e94-38b0-4097-b24d-7b8c59b89f82)
+
 User Authentication
 POST /auth/register - Register a new user.
 POST /auth/login - Log in and get a JWT token.
