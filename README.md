@@ -1,6 +1,7 @@
 Travel Website
 ![Uploading image.png…]()
 
+
 Objective
 The goal of this project is to build a travel website where users can browse, book, and manage trips. Additionally, trip organizers can register and add their trips. Both frontend and backend components are implemented using modern web technologies.
 
