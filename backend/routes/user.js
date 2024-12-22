@@ -7,6 +7,8 @@ import {
 } from "../controllers/userController.js";
 const router = express.Router();
 
+import { verifyUser } from "../utils/verifyToken.js";
+
 //update new user
 router.put("/:id", updateUser);
 
@@ -14,7 +16,7 @@ router.put("/:id", updateUser);
 router.delete("/:id", deleteUser);
 
 //getsingle new user
-router.get("/:id", getSingleUser);
+router.get("/:id", verifyUser, getSingleUser);
 
 //getAll new user
 router.get("/", getAllUser);
