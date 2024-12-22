@@ -1,5 +1,5 @@
 Travel Website
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/27cbacbd-7038-4d0d-807f-3a25c240e73a)
 
 
 Objective
@@ -8,6 +8,9 @@ The goal of this project is to build a travel website where users can browse, bo
 Features
 Core Functionalities
 Trip Listing and Details:
+
+![Uploading image.png…]()
+
 
 Display a list of upcoming trips on the landing page.
 Each trip includes detailed information such as:
