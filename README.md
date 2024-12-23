@@ -9,7 +9,7 @@ Features
 Core Functionalities
 Trip Listing and Details:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/0b118c21-c778-487e-b7f3-e9cdac17f2ba)
 
 
 Display a list of upcoming trips on the landing page.
@@ -45,6 +45,7 @@ Full refund if canceled 15 days prior to the trip date.
 No refund if canceled less than 7 days prior.
 Good-to-Have Features (Optional)
 Concurrency Handling:
+![Uploading image.png…]()
 
 Ensure that if a trip has only one slot left, simultaneous booking attempts by different users result in only one successful booking.
 Session Management:
