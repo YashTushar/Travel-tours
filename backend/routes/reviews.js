@@ -1,5 +1,5 @@
 import express from "express";
-import { createReview } from "../controllers/reviewControlller.js";
+import { createReview } from "./../Controllers/reviewControllers.js";
 import { verifyUser } from "../utils/verifyToken.js";
 
 const router = express.Router();
