@@ -8,7 +8,7 @@ import {
   getTourBySearch,
   updateTour,
   getTourCount,
-} from "./../Controllers/tourControllers.js";
+} from "./../controllers/tourControllers.js";
 import { verifyAdmin } from "../utils/verifyToken.js";
 
 const router = express.Router();
